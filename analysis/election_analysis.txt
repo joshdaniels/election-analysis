@@ -1,3 +1,4 @@
+Total Votes str({total_votes})
 Counties in the Election
 -------------------------
 Arapahoe
